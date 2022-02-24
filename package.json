@@ -1,5 +1,5 @@
 {
-  "name": "style-dictionary-tutorial",
+  "name": "style-dictionary-poc",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelmang/style-dictionary.git"
+    "url": "git+https://github.com/12pixels/style-dictionary.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michaelmang/style-dictionary/issues"
+    "url": "https://github.com/12pixels/style-dictionary/issues"
   },
-  "homepage": "https://github.com/michaelmang/style-dictionary#readme",
+  "homepage": "https://github.com/12pixels/style-dictionary#readme",
   "dependencies": {
-    "style-dictionary": "^2.10.2"
+    "style-dictionary": "^2.10.3"
   }
 }
